@@ -1,3 +1,11 @@
+/*
+ * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ * @Project PiggyBankExpress
+ * @date 12/05/2019
+ * @author Ryan Zwier
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
+*/
+
 package piggybankexpress;
 
 import java.awt.BorderLayout;
@@ -16,9 +24,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 import javax.swing.ScrollPaneConstants;
 
-/*
- * @author CJ
- */
 public class e extends JFrame{
     GridBagConstraints gbc = new GridBagConstraints();
     
